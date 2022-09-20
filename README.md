@@ -1,7 +1,7 @@
 [![MasterHead](https://tenor.com/view/ayaka-genshin-impact-banner-gif-24209471)
 <h1 align="center">Hey 👋, I'm Shubham Thakur</h1>
 <h3 align="center">A newbie programmer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/Tsw2.mp4">
+<img align="right" alt="Coding" width="400" src"https://c.tenor.com/Nnuy077iJc8AAAAC/umi-sonoda-welcome-back-master.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sin-senpai&label=Profile%20views&color=0e75b6&style=flat" alt="sin-senpai" /> </p>
 
