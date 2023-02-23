@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Discord bot**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **JavaScript**
 
 - 💬 Ask me about **Android,PC.**
 
