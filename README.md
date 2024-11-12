@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **st17172@gmail.com**
 
-- ⚡ Fun fact **𝙸 𝚊𝚖 𝚓𝚞𝚜𝚝 𝚊 𝚐𝚞𝚢 𝚠𝚑𝚘 𝚑𝚊𝚜 𝚕𝚘𝚜𝚝 𝚑𝚒𝚖𝚜𝚎𝚕𝚏 𝚒𝚗 𝚝𝚑𝚎 𝚠𝚘𝚛𝚕𝚍 𝚘𝚏 𝙰𝚗𝚒𝚖𝚎 & 𝙼𝚊𝚗𝚐𝚊(𝙷𝚎𝚗𝚝𝚊𝚒 𝚝𝚘𝚘). 𝚆𝚑𝚎𝚗𝚎𝚟𝚎𝚛 𝙸 𝚐𝚎𝚝 𝚜𝚘𝚖𝚎 𝚏𝚛𝚎𝚎 𝚝𝚒𝚖𝚎 𝙸 𝚜𝚙𝚎𝚗𝚍 𝚒𝚝 𝚎𝚒𝚝𝚑𝚎𝚛 𝚠𝚊𝚝𝚌𝚑𝚒𝚗𝚐 𝙰𝚗𝚒𝚖𝚎 𝚘𝚛 𝚛𝚎𝚊𝚍𝚒𝚗𝚐 𝚖𝚊𝚗𝚐𝚊 '𝚌𝚊𝚞𝚜𝚎 𝚝𝚑𝚊𝚝'𝚜 𝚠𝚑𝚊𝚝 𝙸 𝚕𝚘𝚟𝚎.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/18190785/sin-senpai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18190785/sin-senpai" height="30" width="40" /></a>
